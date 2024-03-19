@@ -1,0 +1,15 @@
+# Doxyfile 1.8.13
+
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "Viewer_2_0"
+PROJECT_NUMBER         = 8
+PROJECT_BRIEF          = "3d viewer, version 2.0"
+OUTPUT_DIRECTORY       = "Docs"
+CREATE_SUBDIRS         = NO
+ALLOW_UNICODE_NAMES    = NO
+OUTPUT_LANGUAGE        = English
+BRIEF_MEMBER_DESC      = YES
+REPEAT_BRIEF           = YES
+EXTRACT_ALL            = YES
+INPUT = Model Controller
+RECURSIVE = NO
